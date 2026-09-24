@@ -19,7 +19,7 @@ public class HelloJavaFX extends Application {
         layout.setAlignment(Pos.CENTER);
         layout.getChildren().addAll(message, startbutton, resetButton);
         Scene scene = new Scene(layout, 500, 300);
-        stage.setTitle("My First JavaFX Application -StudentNumber : 202505645");
+        stage.setTitle("My First JavaFX Application -StudentNumber : 202505645ggar");
         stage.setScene(scene);
         stage.show();
     }
